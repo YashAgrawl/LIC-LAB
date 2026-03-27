@@ -1,9 +1,6 @@
 # Experiment 1: DC, AC, and Transient Analysis of a Common Source (CS) Amplifier
-
-**Name:** [Your Name]  
-**USN:** [Your USN]  
-**Subject:** Linear Integrated Circuits Lab (BEC456B)  
-**Date:** [Date of Experiment]  
+   
+**Subject:** Linear Integrated Circuits Lab (BEC456B)    
 **Tool Used:** LTspice XVII
 
 ---
