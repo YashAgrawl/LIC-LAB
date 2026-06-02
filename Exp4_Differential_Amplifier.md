@@ -13,7 +13,6 @@ This report presents a detailed study of MOS differential amplifier topologies i
 
 For each circuit, the report examines the DC operating point, input common-mode range, output common-mode range, differential input range, transient response, AC frequency response, and gain behavior. The analysis combines hand calculations and LTspice simulation results. In addition to numerical results, the report explains the operating principles of differential pairs, current steering, saturation conditions, linear versus nonlinear operation, and the practical impact of device non-idealities.
 
-The document is intentionally written in a detailed, GitHub-ready format so it can be uploaded directly as a repository README or lab-report markdown file.
 
 ---
 
@@ -1151,7 +1150,6 @@ The most important conclusions are:
 - common-mode headroom determines whether the circuit remains functional,
 - simulation results support the theoretical behavior expected from MOS differential pair theory.
 
-The final report is therefore suitable for GitHub presentation as a detailed electronics laboratory project.
 
 ---
 
